@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# by Calini Floare, cfloare@itim-cj.ro
+# (c) Jan Groenewald, jan@aims.ac.za
 # script to sanitize data/.../file.ext into cleaned_data.d/._./file.txt
 
 ##############################################################################################
